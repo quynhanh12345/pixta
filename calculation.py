@@ -15,4 +15,4 @@ if __name__ == '__main__':
         result = cal_rectangle_perimeter(a, b)
     else:
         result = "Wrong input"
-    print(f"\nResult: {result}")
+    print(f"\nResult: {result}")dedfef
